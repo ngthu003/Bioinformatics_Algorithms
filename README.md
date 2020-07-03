@@ -16,7 +16,7 @@
 
 __Chapter 1: Where in the Genome Does DNA Replication Begin__, *Algorithmic Warmup*
 
-*  1A. &nbsp; Pattern Count Problem
+*  1A. &nbsp; [Pattern Count Problem](https://nbviewer.jupyter.org/github/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1A%20-%20Pattern%20Count%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1B. &nbsp; Frequent Words Problem
 *  1C. &nbsp; Reverse Complement Problem
 *  1D. &nbsp; Pattern Matching Problem
