@@ -22,7 +22,7 @@ __Chapter 1: Where in the Genome Does DNA Replication Begin__, *Algorithmic Warm
 *  1D. &nbsp; [Pattern Matching Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1D%20-%20Pattern%20Matching%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1E. &nbsp; Clump Finding Problem
 *  1F. &nbsp; Minimum Skew Problem
-*  1G. &nbsp; Hamming Distance Problem
+*  1G. &nbsp; [Hamming Distance Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1G%20-%20Hamming%20Distance%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1H. &nbsp; Approximate Pattern Matching Problem
 *  1I. &nbsp; Frequent Words with Mismatches Problem
 *  1J. &nbsp; Frequent Words with Mismatches and Reverse Complements Problem
