@@ -4,7 +4,7 @@
 
 > This repository is a collection of implementation of algorithms introduced in the book `Bioinformatics Algorithms - An Active Learning Approach` by Phillip Compeau and Pavel Pevzner and the Coursera specialization __[Bioinformatics](https://www.coursera.org/specializations/bioinformatics)__.
 
-> The implementation is done with Python. Each algorithm, when first introduced, is implemented in a separate Python notebook, and tested on a variety of dataset from [Rosalind](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track), the complementary website.
+> The implementation is done with Python. Each algorithm, when first introduced, is implemented in a separate Python notebook, and tested on a variety of dataset from [Rosalind](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track), the complementary website. Additionally, my account on Rosalind is ngthu003.
 
 ***
 
