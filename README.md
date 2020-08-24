@@ -21,7 +21,7 @@ __Chapter 1: Where in the Genome Does DNA Replication Begin__, *Algorithmic Warm
 *  1C. &nbsp; [Reverse Complement Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1C%20-%20Reverse%20Complement%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1D. &nbsp; [Pattern Matching Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1D%20-%20Pattern%20Matching%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1E. &nbsp; [Clump Finding Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1E%20-%20Clump%20Finding%20Problem.ipynb) &nbsp; :heavy_check_mark:
-*  1F. &nbsp; Minimum Skew Problem
+*  1F. &nbsp; [Minimum Skew Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1F%20-%20Minimum%20Skew%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1G. &nbsp; [Hamming Distance Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1G%20-%20Hamming%20Distance%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1H. &nbsp; [Approximate Pattern Matching Problem](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1H%20-%20Approximate%20Pattern%20Matching%20Problem.ipynb) &nbsp; :heavy_check_mark:
 *  1I. &nbsp; Frequent Words with Mismatches Problem
