@@ -28,5 +28,5 @@ __Chapter 1: Where in the Genome Does DNA Replication Begin__, *Algorithmic Warm
 *  1J. &nbsp; Frequent Words with Mismatches and Reverse Complements Problem
 *  1K. &nbsp; [Computing a Frequency Array](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1K%20-%20Computing%20a%20Frequency%20Array.ipynb) &nbsp; :heavy_check_mark:
 *  1L. &nbsp; [Implement PatternToNumber](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1L%20-%20Implement%20PatternToNumber.ipynb) &nbsp; :heavy_check_mark:
-*  1M. &nbsp; Implement NumberToPattern
+*  1M. &nbsp; [Implement NumberToPattern](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1M%20-%20Implement%20NumberToPattern.ipynb) &nbsp; :heavy_check_mark:
 *  1N. &nbsp; [Generate the d-Neighborhood of a String](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1N%20-%20Generate%20the%20d-Neighborhood%20of%20a%20String%20Problem.ipynb) &nbsp; :heavy_check_mark: 
