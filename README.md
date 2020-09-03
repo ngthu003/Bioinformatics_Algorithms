@@ -30,3 +30,18 @@ __Chapter 1: Where in the Genome Does DNA Replication Begin__, *Algorithmic Warm
 *  1L. &nbsp; [Implement PatternToNumber](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1L%20-%20Implement%20PatternToNumber.ipynb) &nbsp; :heavy_check_mark:
 *  1M. &nbsp; [Implement NumberToPattern](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1M%20-%20Implement%20NumberToPattern.ipynb) &nbsp; :heavy_check_mark:
 *  1N. &nbsp; [Generate the d-Neighborhood of a String](https://github.com/thn003/Bioinformatics_Algorithms/blob/master/Chapter%201%20-%20Where%20in%20the%20Genome%20Does%20DNA%20Replication%20Begin/1N%20-%20Generate%20the%20d-Neighborhood%20of%20a%20String%20Problem.ipynb) &nbsp; :heavy_check_mark: 
+
+
+<br/>
+
+__Chapter 2: Which DNA Patterns Play the Role of Molecular Clocks?__, *Randomized Algorithms*
+
+*  2A. &nbsp; Implement MotifEnumeration
+*  2B. &nbsp; Find a Median String
+*  2C. &nbsp; Find a Profile-most Probable k-mer in a String
+*  2D. &nbsp; Implement GreedyMotifSearch
+*  2E. &nbsp; Implement GreedyMotifSearch with Pseudocounts
+*  2F. &nbsp; Implement RandomizedMotifSearch
+*  2G. &nbsp; Implement GibbsSampler
+*  2H. &nbsp; Implement DistaneBetweenPatternAndStrings
+
